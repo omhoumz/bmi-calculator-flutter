@@ -1,5 +1,5 @@
 name: bmi_calculator
-description: A new Flutter application.
+description: Check where you are with your weight.
 
 version: 1.0.0+1
 
@@ -11,6 +11,7 @@ dependencies:
     sdk: flutter
 
   cupertino_icons: ^0.1.2
+  font_awesome_flutter: ^8.5.0
 
 dev_dependencies:
   flutter_test:
